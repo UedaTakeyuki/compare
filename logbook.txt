@@ -1,0 +1,1 @@
+2021.02.16 spin out from test code of github.com/UedaTakeyuki/hid
